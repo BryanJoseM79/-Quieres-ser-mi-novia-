@@ -1,0 +1,28 @@
+*{
+    margin: 0; /* para que no haya ningun espaciado dentro de la pagina desde el comienzo */
+}
+
+.contenedor{
+    background: red;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+p{
+    font-size: xx-large;
+    padding:15%;
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.75em;
+}
+
+#siBtn{
+    transform: translate(-100%,0);
+}
+
+#noBtn{
+    position: absolute;
+}
